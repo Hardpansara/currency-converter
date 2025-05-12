@@ -61,5 +61,5 @@ A simple and elegant Flutter-based mobile application that converts Indian Rupee
 - 📱 Support more currencies
 
 ---
-##Author
-Hard Pansara – https://github.com/Hardpansara
+## Author
+Hard Pansara – [Github](https://github.com/Hardpansara)
