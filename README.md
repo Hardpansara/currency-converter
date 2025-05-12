@@ -24,7 +24,7 @@ A simple and elegant Flutter-based mobile application that converts Indian Rupee
 
 </div>
 
-> Add your screenshots in a `screenshots/` folder in your repo and update the image paths accordingly.
+
 
 ---
 
@@ -56,9 +56,9 @@ A simple and elegant Flutter-based mobile application that converts Indian Rupee
 ---
 
 ##🧠 Future Enhancements
--🌍 Fetch live currency exchange rates using an API.
--🌙 Add dark mode
--📱 Support more currencies
+- 🌍 Fetch live currency exchange rates using an API.
+- 🌙 Add dark mode
+- 📱 Support more currencies
 
 ---
 ##Author
