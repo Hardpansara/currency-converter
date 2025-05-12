@@ -55,7 +55,7 @@ A simple and elegant Flutter-based mobile application that converts Indian Rupee
 
 ---
 
-##🧠 Future Enhancements
+## 🧠 Future Enhancements
 - 🌍 Fetch live currency exchange rates using an API.
 - 🌙 Add dark mode
 - 📱 Support more currencies
